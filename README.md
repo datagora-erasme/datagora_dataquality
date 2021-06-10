@@ -26,8 +26,12 @@ A complete description of these functionalities is available in French in the fi
 
 <code> 
 pip install django xlrd openpyxl pywin32 matplotlib shapely
-sudo apt-get install python3-tk
-cd mysite
-python manage.py runserver
 </code>
+
+Then go to the mysite folder to run : 
+<code> 
+python manage.py runserver  
+</code>
+
+
 
