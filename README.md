@@ -21,7 +21,9 @@ A complete description of these functionalities is available in French in the fi
 
 ## How to use it ?
 
-**Only works on Windows ** 
+**Only works on Windows** 
+
+
 <code> 
 pip install django xlrd openpyxl pywin32 matplotlib shapely
 sudo apt-get install python3-tk
